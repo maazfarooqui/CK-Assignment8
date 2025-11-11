@@ -1,3 +1,5 @@
+//this is not part of assignment
+
 class MyThread extends Thread {
     public void run() {
         System.out.println(Thread.currentThread().getName() + " is going to sleep  " + Thread.currentThread());
