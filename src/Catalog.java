@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 
-class InvalidPriceException extends Exception {
+class InvalidPriceException extends RuntimeException {
     InvalidPriceException(String message) {
         super(message);
     }

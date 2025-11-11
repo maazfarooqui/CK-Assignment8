@@ -15,7 +15,7 @@ public class StaticCounter {
 
     }
 
-    StaticCounter()
+   public StaticCounter()
     {
         count++;
     }
