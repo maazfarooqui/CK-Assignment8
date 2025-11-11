@@ -1,4 +1,4 @@
-//this is not part of assignment
+//this is not part of assignment and has been added to gitignore file
 
 class MyThread extends Thread {
     public void run() {
